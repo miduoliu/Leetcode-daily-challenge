@@ -54,5 +54,4 @@ public:
         }
         return true;
     }
-};
-// thanks for code of votrubac, help me understand this problem
+};// thanks for code of votrubac, help me understand this problem
